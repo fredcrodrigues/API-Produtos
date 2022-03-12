@@ -13,7 +13,7 @@ const MONGO_OPTIONS = {
 
 const MONGO_USERNAME = process.env.MONGO_USERNAME || 'teste';
 const MONGO_PASSWORD = process.env.MONGO_USERNAME || 'CA2zAYcVlUn3pIk9';
-const MONGO_HOST = process.env.MONGO_URL || `cluster0.fqyyj.mongodb.net/myFirstDatabase`;
+const MONGO_HOST = process.env.MONGO_URL || `cluster0.fqyyj.mongodb.net/Jump`;
 
 const MONGO = {
     host: MONGO_HOST,
