@@ -4,7 +4,7 @@ Consumo de uuma api, usando as tecnologias de desenvolvimento web como,  Typscri
 
 Os testes da API são realizadas, para verificar as requisições efetuadas são realizadas por meio da ferramenta POSTMAN
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/fredcrodrigues/Desafio_Jump/blob/main/postman.png)
 
 
 Para executar use:
